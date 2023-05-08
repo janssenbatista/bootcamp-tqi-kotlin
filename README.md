@@ -5,3 +5,6 @@
 
 Repositório do projeto entregue para conclusão do módulo:
   https://github.com/janssenbatista/password-generator
+
+- Dominando a linguagem de programação Java
+Resolução dos exercícios do submódulo [Trabalhando com Collections Java](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/trabalhando-com-collections)
