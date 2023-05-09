@@ -8,7 +8,7 @@ Repositório do projeto entregue para conclusão do módulo:
 
 - Dominando a linguagem de programação Java
 
-Resolução dos exercícios do submódulo **Trabalhando com Collections Java*do-com-collections**
+Resolução dos exercícios do submódulo **Trabalhando com Collections Java**
 
 - [Lists](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/trabalhando-com-collections/src/one/digitalinnovation/lists)
 - [Sets](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/trabalhando-com-collections/src/one/digitalinnovation/sets)
