@@ -1,11 +1,12 @@
 # Repositório que conterá a resolução de exercícios do [Bootcamp TQI Kotlin - Backend Developer](https://web.dio.me/track/bootcamp-tqi-kotlin)
 
-# Módulos
+## Módulos
+
 ### Docker Fundamentals
 
 Repositório do projeto entregue para conclusão do módulo:
   https://github.com/janssenbatista/password-generator
-  
+
 ### Dominando a linguagem de programação Java
 
 Resolução dos exercícios do submódulo **Trabalhando com Collections Java**
@@ -17,3 +18,4 @@ Resolução dos exercícios do submódulo **Trabalhando com Collections Java**
 
 ### Refinando sua técnica com desafios de código em Java
   - Resolução do [Desafio 01](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/java/desafio01)
+  - Resolução do [Desafio 02](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/java/desafio02)
