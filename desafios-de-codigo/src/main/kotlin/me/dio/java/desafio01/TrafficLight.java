@@ -2,7 +2,7 @@ package me.dio.java.desafio01;
 
 import java.util.Scanner;
 // Resolução do Desafio 01
-public class App {
+public class TrafficLight {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
