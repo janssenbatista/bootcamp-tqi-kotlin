@@ -24,6 +24,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada | Saída   |
 | ------- | ------- |
-| 2000250 | 2050.00 |
-| 110050  | 1045.00 |
-| 3000400 | 2960.00 |
+| 2000<br/>250 | 2050.00 |
+| 1100<br/>50  | 1045.00 |
+| 3000<br/>400 | 2960.00 |
