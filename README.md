@@ -19,3 +19,10 @@ Resolução dos exercícios do submódulo **Trabalhando com Collections Java**
 ### Refinando sua técnica com desafios de código em Java
   - Resolução do [Desafio 01](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/java/desafio01)
   - Resolução do [Desafio 02](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/java/desafio02)
+
+### Refinando sua técnica com desafios de código em Java
+- Resolução do [Desafio 01](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/kotlin/desafio01)
+- Resolução do [Desafio 02](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/kotlin/desafio02)
+- Resolução do [Desafio 03](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/kotlin/desafio03)
+- Resolução do [Desafio 04](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/kotlin/desafio04)
+- Resolução do [Desafio 05](https://github.com/janssenbatista/bootcamp-tqi-kotlin/tree/main/desafios-de-codigo/src/main/kotlin/me/dio/kotlin/desafio05)
